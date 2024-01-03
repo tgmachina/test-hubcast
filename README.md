@@ -1,2 +1,2 @@
 # test-hubcast
-a test
+a test is only as good as...
